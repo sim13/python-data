@@ -1,0 +1,55 @@
+Matches :
+
+
+Mean Match for NM as it goes from 0, 1,2=[7.9000000000000004, 7.0, 5.0]
+
+Std Error Match for NM as it goes from 0, 1,2= [3.9610604640676716, 4.5825756949558398, 5.0]
+
+
+Mean Match for ML as it goes from 6,7,8= [0.10000000000000001, 2.0, 7.0]    
+
+Std Error for ML as it goes from 6,7,8= [0.30000000000000004, 4.0, 4.5825756949558398]
+
+Mean Match for SC as it goes from 5,10,20=  [2.8999999999999999, 7.0, 10.0]
+
+Std Error for SC as it goes from 5,10,20= [2.3853720883753127, 4.5825756949558398, 10.0]
+
+
+
+Mean Match for ML is lowest since shorter the lenght of motif -the more difficult it is to find it
+--------------x-----------------x---------------------x----------------------------
+Relative Entropy :
+
+
+Mean rel_entropy for NM as it goes from 0, 1,2= [6.3739297663799999, 9.2186671160800007, 13.41868120565]
+
+Std Error for NM for relative entropy as it goes from 0, 1,2=[12.893109980116376, 14.140103236915003, 14.124612682613231]
+
+Mean rel_entropy for  ML as it goes from 6,7,8= [23.095945515223001, 21.550190466350003, 9.2186671160800007]
+
+Std Error rel_entropy for  ML as it goes from 6,7,8= [6.3640216828321323, 10.949060200258886, 14.140103236915003]
+
+Mean rel_entropy for SC as it goes from 5,10,20= [6.3345933799593999, 9.2186671160800007, 27.383049327640002]
+
+Std Error rel_entropyfor SC as it goes from 5,10,20=[7.7452801310540904, 14.140103236915003, 28.301511987239429]
+
+
+
+
+-----------x------------------x-------------x--------------------------x--------------------x----------
+Information Content 
+
+Mean information_content  for NM as it goes from 0, 1,2= [2.5676688628400002, 3.4171408078379999, 3.3291663604120005]
+
+Std Error information_content for NM as it goes from 0, 1,2= [5.1402619958066644, 5.316571562849969, 3.7462884135153511]
+
+Mean information_content  for ML as it goes from 6,7,8= [4.9183174618620003, 5.9765741948830007, 3.4171408078379999]
+
+Std Error -information_content  for ML as it goes from 6,7,8=[1.8431452524582073, 3.6534896325125001, 5.316571562849969]
+
+Mean information_content for SC as it goes from 5,10,20=[1.1290818149549999, 3.4171408078379999, 13.007683437470002]
+
+Std Error of information_content for SC as it goes from 5,10,20= [1.5911282309671853, 5.316571562849969, 13.432129782578418]
+
+
+
